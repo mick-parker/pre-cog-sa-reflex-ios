@@ -1,0 +1,11 @@
+pre-cog-sa-reflex-ios/
+│
+├── PreCogSA/
+│   ├── PreCogManager.swift          # Core sensor & alert logic
+│   ├── ContentView.swift            # UI to display alert status
+│   ├── AppDelegate.swift            # Standard app lifecycle
+│   └── Info.plist                  # Permissions & metadata
+│
+├── README.md                       # Project overview and run instructions
+├── LICENSE                        # MIT License text
+└── CONTRIBUTING.md                 # Contribution guidelines & good first issues
