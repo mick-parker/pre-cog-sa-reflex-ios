@@ -1,0 +1,4 @@
+<key>NSMicrophoneUsageDescription</key>
+<string>This app needs microphone access to detect sudden loud noises.</string>
+<key>NSMotionUsageDescription</key>
+<string>This app uses motion sensors to detect sudden movements for safety alerts.</string>
